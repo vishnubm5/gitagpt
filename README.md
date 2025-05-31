@@ -38,7 +38,8 @@ GitaGPT is an AI-powered Q&A application that lets you ask deep, philosophical, 
 
 ## 📷 Preview
 
-![Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/67440010-a3a7-4bc1-88eb-0aaf339301da)
+
 
 ---
 
